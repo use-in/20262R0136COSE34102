@@ -35,3 +35,5 @@ Virtual Memory: 프로세스에 독립적인 가상 주소 공간을 제공합�
 Paging: 가상 메모리와 물리 메모리를 일정한 크기의 페이지와 프레임 단위로 관리합니다.
 
 Page Fault: 필요한 페이지가 현재 물리 메모리에 없을 때 발생합니다.
+
+### File System Management
