@@ -49,3 +49,5 @@ Directory Management: 파일을 계층적인 디렉터리 구조로 구성하고
 File Permissions: 사용자별로 파일에 대한 접근 권한을 설정하고 관리합니다.
 
 Disk Space Management: 저장 장치의 공간을 효율적으로 할당하고 사용 가능한 공간을 관리합니다.
+
+### I/O Device Management
