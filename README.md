@@ -21,3 +21,5 @@ Process State: 프로세스는 생성, 준비, 실행, 대기, 종료 등의 상
 CPU Scheduling: 여러 프로세스 중 CPU를 사용할 프로세스를 결정합니다.
 
 Context Switching: CPU에서 실행 중인 프로세스를 다른 프로세스로 전환하는 과정입니다.
+
+### Memory Management
